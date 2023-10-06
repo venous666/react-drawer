@@ -7,6 +7,7 @@ const {Screen, Navigator} = createNativeStackNavigator();
 import { ScreenA } from '../screens/ScreenA';
 import { ScreenB } from '../screens/ScreenB';
 
+
 export function StackRoutes(){
     return(
         <Navigator>
